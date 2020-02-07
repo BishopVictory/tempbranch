@@ -1,1 +1,8 @@
 Remember to indent, INDENTATIONS ARE IMPORTANT
+
+Error Message; Sprockets::Rails::Helper::AssetNotFound in Docs#index
+Corrective Action: 
+javascript_include_tag should be chqnge to javascript_packs_tag
+
+ Stylesheets
+https://github.com/CrashLearner/FileCabinet/tree/master/Stylesheets%20for%20FileCabinet
